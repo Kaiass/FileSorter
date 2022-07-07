@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LargeFileSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\temp\\test.txt D:\\temp\\sorted.txt"
+    }
+  }
+}

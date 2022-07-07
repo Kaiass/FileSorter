@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestFileGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\t.txt 1"
+    }
+  }
+}
